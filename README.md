@@ -50,3 +50,7 @@ Diseñar un panel simple con información de riesgo de churn.
 🏁 Estado Actual
 
 📍 Fase: Definición y diseño general del proyecto.
+
+Esquema conceptual
+<img width="1462" height="1196" alt="image" src="https://github.com/user-attachments/assets/f122e2fe-750c-4586-a0d9-294521a02622" />
+
